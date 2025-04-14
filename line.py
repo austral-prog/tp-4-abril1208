@@ -1,4 +1,4 @@
-import math
+import math 
 def line():
     pendiente=input("Ingrese el coeficiente A: ")
     ordenada= input("Ingrese el coeficiente B: ")
